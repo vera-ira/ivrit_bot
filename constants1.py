@@ -1,5 +1,5 @@
-token ="649588171:AAE0FXWviI4f-vh3I32tCiDQtroD7lZyIr4_stoped" #ivrir_bot
-token2 ="553709427:AAFdyQo4c1-G49_iq0O7heQI1JRQE6WjMlM_stoped" #via1102...
+token ="536804067:AAG19ihAEdrVWnM6Oo-LykRhglll2KvFN28" #ylpan
+token2 ="536804067:AAG19ihAEdrVWnM6Oo-LykRhglll2KvFN28" #ylpan
 APP_NAME = 'moment-vera-ira'
 
 sum_buttons_on_botr=5 #Цыфра означает, какое кол-во кнопок в одно сообщение мы выводим.
